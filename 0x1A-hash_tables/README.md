@@ -1,1 +1,1 @@
-0x0A c hash tables
+0x0A hash tables C
